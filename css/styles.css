@@ -61,7 +61,7 @@ body{
     left:400px
  }
     
-    .carousel-indicators {
+.carousel-indicators {
     position: absolute;
     left: 300px;
     }
