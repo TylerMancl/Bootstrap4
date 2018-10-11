@@ -52,6 +52,7 @@ body{
 }
 .carousel-item {
   height: 300px;
+  
 }
 .carousel-item img {
     max-width: 600px;
@@ -74,6 +75,12 @@ body{
 .img-thumbnail {
     margin: 25px;
 }
-.box {
-    width: 200px;
+.text-center {
+    width: 300px;
+    margin: auto;
+}
+@media only screen and (max-width: 505px) {
+    .carousel-item {
+        height: 200px;
+    }
 }
