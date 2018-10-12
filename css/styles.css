@@ -64,6 +64,7 @@ body{
     .carousel-indicators {
     position: absolute;
     left: 300px;
+<<<<<<< HEAD
     }
 
 #carouselButton {
@@ -72,3 +73,6 @@ body{
     bottom: 0px;
     }
 
+=======
+    }
+>>>>>>> parent of dbf546b... Bootsrap JQuery
