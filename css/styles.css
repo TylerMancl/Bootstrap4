@@ -22,7 +22,10 @@
     padding: 70px 30px 70px 30px;
     margin: 0px auto;
     background: #9575CD;
+<<<<<<< HEAD
     color: floralwhite;
+=======
+>>>>>>> parent of 3fc3eaa... Less
 }
 
 .address {
@@ -67,4 +70,13 @@ body{
     position: absolute;
     left: 300px;
     }
+<<<<<<< HEAD
 >>>>>>> parent of dbf546b... Bootsrap JQuery
+=======
+
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+    }
+>>>>>>> parent of 3fc3eaa... Less
