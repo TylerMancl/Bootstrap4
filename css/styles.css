@@ -63,6 +63,7 @@ body{
     position: absolute;
     top: 0;
     left: 0;
+<<<<<<< HEAD
     min-height: 200px;
 }
 .carousel-caption {
@@ -88,3 +89,7 @@ body{
 =======
     }
 >>>>>>> parent of dbf546b... Bootsrap JQuery
+=======
+    min-height: 300px;
+}
+>>>>>>> parent of 3cc0d7d... WeekThreeTaskOne
