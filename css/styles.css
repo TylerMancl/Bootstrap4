@@ -23,9 +23,13 @@
     margin: 0px auto;
     background: #9575CD;
 <<<<<<< HEAD
+<<<<<<< HEAD
     color: floralwhite;
 =======
 >>>>>>> parent of 3fc3eaa... Less
+=======
+    color: floralwhite;
+>>>>>>> parent of dbf546b... Bootsrap JQuery
 }
 
 .address {
@@ -66,9 +70,10 @@ body{
     left:400px
  }
     
-.carousel-indicators {
+    .carousel-indicators {
     position: absolute;
     left: 300px;
+<<<<<<< HEAD
     }
 <<<<<<< HEAD
 >>>>>>> parent of dbf546b... Bootsrap JQuery
@@ -80,3 +85,6 @@ body{
     bottom: 0px;
     }
 >>>>>>> parent of 3fc3eaa... Less
+=======
+    }
+>>>>>>> parent of dbf546b... Bootsrap JQuery
