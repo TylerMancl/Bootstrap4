@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 .row-header {
     margin: 0px auto;
     padding: 0px auto;
@@ -22,14 +20,7 @@
     padding: 70px 30px 70px 30px;
     margin: 0px auto;
     background: #9575CD;
-<<<<<<< HEAD
-<<<<<<< HEAD
     color: floralwhite;
-=======
->>>>>>> parent of 3fc3eaa... Less
-=======
-    color: floralwhite;
->>>>>>> parent of dbf546b... Bootsrap JQuery
 }
 
 .address {
@@ -63,7 +54,6 @@ body{
     position: absolute;
     top: 0;
     left: 0;
-<<<<<<< HEAD
     min-height: 200px;
 }
 .carousel-caption {
@@ -74,22 +64,11 @@ body{
     .carousel-indicators {
     position: absolute;
     left: 300px;
-<<<<<<< HEAD
     }
-<<<<<<< HEAD
->>>>>>> parent of dbf546b... Bootsrap JQuery
-=======
 
 #carouselButton {
     right:0px;
     position: absolute;
     bottom: 0px;
     }
->>>>>>> parent of 3fc3eaa... Less
-=======
-    }
->>>>>>> parent of dbf546b... Bootsrap JQuery
-=======
-    min-height: 300px;
-}
->>>>>>> parent of 3cc0d7d... WeekThreeTaskOne
+
